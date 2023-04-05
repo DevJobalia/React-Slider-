@@ -1,7 +1,8 @@
 
-# React Contact App
+# React Slider Animation App
 
 Fourth React Project, 
+
 With Functionality: 
 - Slider using framer motion
 
